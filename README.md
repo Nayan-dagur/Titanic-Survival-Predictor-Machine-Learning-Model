@@ -38,7 +38,6 @@ The following columns were removed as they were not used in the baseline model:
 * Ticket
 * PassengerId
 * Name
-* Fare
 
 Missing Value Treatment
 
