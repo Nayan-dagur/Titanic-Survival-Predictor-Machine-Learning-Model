@@ -14,7 +14,7 @@ Key Tasks Performed
 * Trained and evaluated multiple Machine Learning models.
 * Compared model performance using accuracy metrics.
 
-⸻
+
 
 🛠️ Technologies Used
 
@@ -26,7 +26,7 @@ Key Tasks Performed
 * Scikit-learn
 * Jupyter Notebook
 
-⸻
+
 
 🧹 Data Preprocessing
 
@@ -52,7 +52,7 @@ Categorical features were converted into numerical values using LabelEncoder:
 * Sex
 * Embarked
 
-⸻
+
 
 📊 Exploratory Data Analysis (EDA)
 
@@ -70,7 +70,7 @@ Key Observations
 * Age showed a moderate influence on survival outcomes.
 * Passenger class and gender emerged as strong predictors of survival.
 
-⸻
+
 
 🤖 Machine Learning Models
 
@@ -82,7 +82,7 @@ Decision Tree Classifier
 
 A tree-based classification model used for comparison against Logistic Regression.
 
-⸻
+
 
 📈 Results
 
@@ -94,7 +94,7 @@ Conclusion
 
 Logistic Regression achieved the highest accuracy among the tested models and slightly outperformed the Decision Tree classifier on the test dataset.
 
-⸻
+
 
 📂 Project Workflow
 
@@ -114,7 +114,7 @@ Model Training
       ↓
 Model Evaluation
 
-⸻
+
 
 🎯 Key Learnings
 
@@ -126,7 +126,7 @@ Model Evaluation
 * Model evaluation and comparison.
 * Building a complete Machine Learning workflow from scratch.
 
-⸻
+
 
 🚀 Future Improvements
 
@@ -137,7 +137,7 @@ Model Evaluation
 * XGBoost and ensemble learning methods.
 * Feature importance analysis.
 
-⸻
+
 
 📁 Repository Structure
 
@@ -147,7 +147,7 @@ Titanic-Survival-Prediction/
 ├── README.md
 └── dataset/
 
-⸻
+
 
 👨‍💻 Author
 
