@@ -60,7 +60,7 @@ The analysis focused on understanding the relationship between passenger surviva
 * Gender (Sex)
 * Passenger Class (Pclass)
 * Age
-* Embarkation Port (Embarked)
+* 
 
 Key Observations
 
